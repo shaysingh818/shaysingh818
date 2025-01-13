@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building, Breaking & Learning 
+Develop various types of applications, libraries, packaged solutions. Intrested in the domains of deep learning, graph theory, audio, information systems & much more. Advocate of open source free & democratized software. 
 
 
 ## 🌐 Socials:
