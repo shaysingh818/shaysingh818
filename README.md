@@ -1,5 +1,12 @@
 # 💫 About Me:
-Develop various types of applications, libraries, packaged solutions. Intrested in the domains of deep learning, graph theory, audio, information systems & much more. Advocate of open source free & democratized software. 
+Develop various types of applications, libraries, packaged solutions. Intrested in the domains of deep learning, graph theory, audio, information systems & much more. Advocate of open source free & democratized software. Down below are a list of projects that are currently available to the public. 
+
+
+|Project Name|Link|
+|-------|---------|
+|DTunes|https://shaysingh818.github.io/DTunes/|
+|dendritic|https://crates.io/crates/dendritic|
+|neurograph|https://shaysingh818.github.io/neurograph/|
 
 
 ## 🌐 Socials:
