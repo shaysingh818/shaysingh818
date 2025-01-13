@@ -4,9 +4,9 @@ Develop various types of applications, libraries, packaged solutions. Intrested 
 
 |Project Name|Link|
 |-------|---------|
-|DTunes|https://shaysingh818.github.io/DTunes/|
-|dendritic|https://crates.io/crates/dendritic|
-|neurograph|https://shaysingh818.github.io/neurograph/|
+|**DTunes**|https://shaysingh818.github.io/DTunes/|
+|**dendritic**|https://crates.io/crates/dendritic|
+|**neurograph**|https://shaysingh818.github.io/neurograph/|
 
 
 ## 🌐 Socials:
