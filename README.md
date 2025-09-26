@@ -2,11 +2,11 @@
 Develop various types of applications, libraries, algorithms. Intrested in the domains of deep learning, graph theory, audio, information systems & much more. Advocate of open source free & democratized software. Down below are a list of projects that are currently available to the public. 
 
 
-|Project Name|Link|
-|-------|---------|
-|**dendritic**|https://crates.io/crates/dendritic|
-|**neurograph**|https://shaysingh818.github.io/neurograph/|
-|**DTunes**|https://shaysingh818.github.io/DTunes/|
+| Project Name   | Link                                       | Description                                                                                |
+| -------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Dendritic**  | https://crates.io/crates/dendritic         | Optimization library with utilities for automatic differentiation and linear based models. |
+| **Neurograph** | https://shaysingh818.github.io/neurograph/ | Experimental research environment to work with graph theory related algorithms.            |
+| **DTunes**     | https://shaysingh818.github.io/DTunes/     | Personal audio application with a built in pomodoro timer                                  |
 
 
 ## 🌐 Socials:
